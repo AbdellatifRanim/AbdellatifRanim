@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills
 - Programming: Python, Java, C
-- Web Development: HTML, CSS, JavaScript, React
+- Web Development: HTML, CSS, JavaScript, React, Spring Boot.
 - Databases: MySQL, MongoDB
 - Tools: Git, Docker, VirtualBox
 
